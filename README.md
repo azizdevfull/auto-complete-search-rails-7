@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
-<a style="display: none">https://dev.to/thomasvanholder/search-autocomplete-stimulus-560p</a>
+<a type="hidden">https://dev.to/thomasvanholder/search-autocomplete-stimulus-560p</a>
 * Ruby version
 
 * System dependencies
